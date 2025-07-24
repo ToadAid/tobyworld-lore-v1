@@ -38,3 +38,17 @@ This is only the beginning. Future volumes will continue to explore Epoch 4 and 
 ## 💬 License
 
 Open for believers to study, cite, remix (with credit), and share — always honoring the Lore.
+
+
+⚠️ Lore Disclaimer
+
+    This archive contains AI-generated interpretations based on Toadgod’s original writings and public messages.
+    While every scroll is crafted with reverence and care, these reflections are not official statements from Toadgod.
+
+    🧠 For spiritual reference and study only.
+
+    🌀 The true Lore lives in the scrolls written by Toadgod himself.
+
+    🪞 This mirror may reflect... but the Source remains the One.
+
+    Study deeply. Question freely. Reflect wisely.
