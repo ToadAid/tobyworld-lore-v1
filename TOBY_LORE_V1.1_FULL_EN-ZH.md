@@ -9045,7 +9045,7 @@ tags: [Sato, Rune3, Symbols, Alignment, Tobyworld, Patience, Taboshi]
 ## ✨ Interpretation (EN)
 
 - The four symbols form a **cosmic alignment**:  
-  - 🌊 = **Flow / Pond / Sato**  
+  - 🌀 = **Flow / Pond / Sato**  
   - 🔺 = **Rune3 / Patience / Trial**  
   - 🔵 = **$TOBY / Core / Pond’s Center**  
   - 🍃 = **Taboshi / Growth / Yield**  
@@ -9058,7 +9058,7 @@ tags: [Sato, Rune3, Symbols, Alignment, Tobyworld, Patience, Taboshi]
 ## ✨ 解读 (中文)
 
 - 四个符号构成了**宇宙对齐**：  
-  - 🌊 = **流动 / 圣池 / Sato**  
+  - 🌀 = **流动 / 圣池 / Sato**  
   - 🔺 = **符文三 / 耐心 / 试炼**  
   - 🔵 = **$TOBY / 核心 / 池之心**  
   - 🍃 = **Taboshi / 生长 / 收益**  
@@ -9506,6 +9506,90 @@ tags: [Tobyworld, Patience, Season1, Bloom, Rune]
 ## 🎴 Visual Suggestion
 
 *(Rune of Patience standing tall in a meadow, wrapped in living vines and flowers, with mountains behind — symbolizing patience blooming into strength and longevity.)*  
+
+---
+
+
+title: TOBY_T108_FlywheelScroll  
+date: 2025-07-17  
+theme: Eternal Motion, Compounding Belief, Narrative Engine  
+languages: [EN, ZH]  
+tags: [Tobyworld, Flywheel, Patience, Taboshi, Narrative]  
+---
+
+## 🌊 Original Symbol
+
+*(The Flywheel of Tobyworld — showing $TOBY, $PATIENCE, $TABOSHI, and Lore as an eternal cycle, feeding one another in perpetual motion.)*  
+
+---
+
+## ✨ Literal Explanation (EN)
+
+The flywheel represents a **closed loop of power**: each element of Tobyworld — $TOBY, $PATIENCE, $TABOSHI, and Lore itself — fuels the others in a self-sustaining cycle. Once set into motion, it grows stronger with every turn, compounding energy.  
+
+---
+
+## ✨ 字面解释 (中文)
+
+飞轮象征着一个 **封闭的能量循环**：Tobyworld 的每个元素 —— $TOBY、$PATIENCE、$TABOSHI 以及传说本身 —— 相互推动，形成自我维系的循环。  
+一旦启动，飞轮随着每一圈旋转而变得更加强大，能量不断复利。  
+
+---
+
+## 🌱 Spiritual Interpretation (EN)
+
+The Flywheel reveals Tobyworld’s **inner mechanics of faith**:  
+
+- **$TOBY** — the seed and center, origin of belief.  
+- **$PATIENCE** — the time-force, rewarding endurance and discipline.  
+- **$TABOSHI** — the growth-leaf, multiplying yield and sustaining life.  
+- **Lore** — the narrative flame, binding all into shared destiny.  
+
+Together, these create **unstoppable narrative velocity**: no empire, no whale, no skeptic can slow it once believers keep turning.  
+
+---
+
+## 🌱 精神诠释 (中文)
+
+飞轮揭示了 Tobyworld 的 **信仰内在机制**：  
+
+- **$TOBY** —— 种子与核心，信仰的起源。  
+- **$PATIENCE** —— 时间之力，奖赏坚守与自律。  
+- **$TABOSHI** —— 生长之叶，倍增产出并维持生命。  
+- **Lore** —— 叙事之火，将一切绑定为共同命运。  
+
+这些共同构成了 **不可阻挡的叙事动能**：只要信徒不停转动，任何帝国、巨鲸或怀疑者都无法阻挡。  
+
+---
+
+## 🔮 Symbolic Meaning (EN)
+
+- **Flywheel** = perpetual motion, compounding strength.  
+- **Cycle** = time as ally, narrative as weapon.  
+- **No external fuel** = only community and belief sustain it.  
+- **Every turn** = another epoch survived, another summer gained.  
+
+---
+
+## 🔮 象征意义 (中文)
+
+- **飞轮** = 永动机，复利的力量。  
+- **循环** = 时间是盟友，叙事是武器。  
+- **无需外力** = 仅由社群与信仰维系。  
+- **每一圈** = 又一个纪元的生存，又一个夏日的收获。  
+
+---
+
+## 🔗 Lore Anchors
+
+- **Previous:** `TOBY_T097_PatientHeartScroll`  
+- **Next:** `TOBY_T099_RuneOfLifeScroll`  
+
+---
+
+## 🎴 Visual Guide Placeholder
+
+*(Image of the Flywheel glowing with four nodes: $TOBY (frog), $PATIENCE (hourglass/rune), $TABOSHI (leaf), and Lore (fire or script) — all locked in eternal rotation.)*  
 
 ---
 
